@@ -7,19 +7,19 @@ OBJECTIVES:
 3. Explore kali linux and linux fundamentals.
 4. Learn basic network security and lab isolation.
 
-TOOLS AND TECHNOLOGIES:
+LAB ENVIRONMENT:
 1. Oracle VirtualBox
 2. Kali linux
 3. Metasploitable2
 4. NAT Network
 
-PRACTICAL ASSIGNMENTS:
-Assignment    Topic      
-1.            Virtual Lab Setup
-2.            Kali linux Exploration
-3.            Linux File System
-4.            Linux Command line
-5.            Secure Lab configuration
+AREA OF PRACTICE:
+Virtualization and lab architecture
+Linux fundamentals and system administration
+Network configuration and trouble shooting
+Network security and traffic analysis
+Security tools and practical testing
+Technical reporting and documentation
 
 REPOSITORY STRUCTURE
 Documentation, screenshots, network diagram and practical commands will be organized.
